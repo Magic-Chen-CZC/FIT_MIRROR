@@ -1,0 +1,24 @@
+# Langchain Core and Integrations
+langchain
+langchain-community
+langchain-core
+
+# 通义千问集成 - 通过 dashscope 访问 (不需要 langchain-qwen)
+dashscope
+
+# Vector Store & Embeddings
+faiss-cpu  # Or faiss-gpu if you have a compatible GPU and CUDA installed
+tiktoken
+
+# Document Loading
+pypdf
+
+# Core Fitness Analysis Dependencies
+mediapipe
+opencv-python
+numpy
+
+# Utilities
+pydantic
+python-dotenv
+pygame # For potential audio feedback

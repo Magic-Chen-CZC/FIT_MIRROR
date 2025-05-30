@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FitMirror - 智能健身助手
 
 FitMirror 是一个智能健身助手应用，结合了 React Native 前端和 Python 后端，提供运动姿势分析、健身聊天助手等功能。
@@ -369,3 +370,6 @@ adb push C:\路径\到\视频.mp4 /sdcard/Download/
 ## 许可证
 
 [添加许可证信息]
+=======
+# FIT_MIRROR
+>>>>>>> 7bcd292098472c8e154be2f5ad89fb0fb051f2e7

@@ -1,4 +1,9 @@
+
 <<<<<<< HEAD
+
+https://github.com/user-attachments/assets/5d792210-ad0a-4b5d-92d8-5722e2fbf436
+
+
 # FitMirror - 智能健身助手
 
 FitMirror 是一个智能健身助手应用，结合了 React Native 前端和 Python 后端，提供运动姿势分析、健身聊天助手等功能。
